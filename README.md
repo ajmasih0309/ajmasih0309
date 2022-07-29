@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ajmasih0309
 - 👀 I’m interested in Data Science, Using Python & R in building blocks.
-- 🌱 I’m currently learning Deep Learning and Advanced Machine Learning Models.
-- 💞️ I’m looking to collaborate on Data Science Projects.
+- 📊 I like to visual data & like to do storytelling.
+- 🌱 I’m currently learning Deep Learning and Advanced Machine Learning Models & participate in #Visualization Challenges.
+- 💞️ I’m looking to collaborate on Data Science Projects as well.
 - 📫 How to reach me - iamabhishekjohnmasih@outlook.com
 
 <!---
